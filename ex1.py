@@ -4,6 +4,7 @@ print('Bem vindo a loja do Flávio Lopes de Araújo')
 produto_valor = float(input('Digite o valor do produto: '))
 qtd_produto = int(input('Digite a quantidade de produto: '))
 
+
 # Condicionais
 total = produto_valor * qtd_produto
 
